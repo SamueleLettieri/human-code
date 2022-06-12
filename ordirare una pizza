@@ -13,6 +13,31 @@
   - ordino la pizza selezionata
     - inserisco i dati della crta per effettuare acqusto
   - aspetto seduto sul divano che mi viene consegnata 
- 
+  - qunado il rider suona il campanello vado ad aprire la porta
+  - mi alzo dal divano
+    - faccendo forza selle gambe 
+  - mi dirigo verso la porta
+  - apro la porta
+  - prendo la pizza e rientro in casa
+     - chiudo la porta
+  - ragiungo il tavolo da pranzo
+  - mi siedo
+  - apro lo scatolo della pizza
+  - controllo che sia gia tagliata
+    - se è tagliata la separo con le mani
+    - se non è tagliata 
+      - mi alzo dalla sedia 
+      - raggiungo la cucina 
+      - apro il cassetto dove so che ci sono i coltelli
+      - ne prendo uno
+      - chiudo il cassetto 
+      - mi dirigo verso il tavolo dove ho posato la pizza
+      - mi risiedo
+      - inizio a tagliare la pizza
+        - taglio a metà la pizza
+        - poi ri taglio le metà in altre metà
+  - inizio a mangiare la pizza 
+    -       
+
 
 
