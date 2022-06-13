@@ -7,9 +7,8 @@
   - raggiungo la paggina della pizzeria
   - selezione menu  
   - guardo tutti i tipi di pizza
-    - leggo tutti gli ingredienti che contiene la pizza 
-       - se non mi vanno bene passo ad un altra finche non ne trovo una che mi piaccia 
-       - se trovo la pizza che mi piace la seleziono   
+    - leggo tutti gli ingredienti che contiene la pizza  
+       - trovo la pizza che ha come ingredienti prosciutto e funghi con e la seleziono   
   - ordino la pizza selezionata
     - inserisco i dati della crta per effettuare acqusto
   - aspetto seduto sul divano che mi viene consegnata 
@@ -37,6 +36,33 @@
         - taglio a metà la pizza
         - poi ri taglio le metà in altre metà
   - inizio a mangiare la pizza 
+    - prendo uno spicchio di pizza
+    - la porto alla bocca
+    - do un morso e mastico
+    - ingoio quando la pizza sarà perfettamente masticata
+  - ripeto queste azioni finche non sento che sono sazio 
+  - se ne avanza uno spicchio la conservo in frigo
+    - mi alzo dalla sedia
+    - mi dirigo verso la cucina 
+    - apro un anta dell'armadietto dei piatti
+    - prendo un piatto
+    - chiudo l'anta dell'armadietto dei piatti
+    - ritorno in sala da pranzo
+    - prendo la pizza rimanente e la posiziono sul piatto
+    - porto il piatto in frigo
+      - mi avvicino al frigo 
+      - lo apro 
+      - posiziono il piatto all'interno del frigo
+      - lo chiudo
+  - se non avanza pizza butto lo scatolo
+    - mi alzo dalla sedia
+    - prendo lo scatolo
+    - lo comprimo in modo da rimpiciolire la sua stazza
+    - mi dirig verso il sechio della spazzatura
+    - apro il coperchio del secchio
+    - e butto lo scatolo all'interno del secchio
+    - chiudo il coperchio del secchio
+       
     
 
 
